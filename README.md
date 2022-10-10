@@ -1,2 +1,2 @@
 # Pomodoro Timer App
-Timer application with Tkinter GUI
+Timer application built with Tkinter GUI
